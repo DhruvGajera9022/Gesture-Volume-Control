@@ -31,5 +31,5 @@ A gesture-based **volume controller** that uses **MediaPipe**, **OpenCV**, and *
 
 ```bash
 git clone https://github.com/DhruvGajera9022/Gesture-Volume-Control.git
-cd hand-volume-control
+cd Gesture-Volume-Control
 ```
